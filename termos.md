@@ -50,7 +50,7 @@ O que você escreve continua sendo seu. Ao publicar, você nos autoriza, de gra�
 
 ## 6. Valores de plantão
 
-O valor do plantão que você informa **nunca é mostrado individualmente**. Ele só entra na média do hospital, que só aparece com pelo menos 3 valores informados. Mais detalhes estão na [Política de Privacidade](/privacidade/).
+O valor do plantão que você informa **nunca é mostrado individualmente**. Ele só entra na média do hospital, que só aparece com pelo menos 5 valores informados e é arredondada. Mais detalhes estão na [Política de Privacidade](/privacidade/).
 
 ## 7. Limites de responsabilidade
 

@@ -67,9 +67,9 @@ Qualquer pessoa que use o app, mesmo sem conta, pode ver as avaliações. Em cad
 
 - **sua especialidade**, sempre;
 - **seu nome**, apenas se você escolher mostrá-lo naquela avaliação. Caso contrário, aparece só "Médico(a)";
-- as notas, o local, a duração, o tipo de pagamento, se voltaria e o comentário.
+- as notas, o local, a duração, o tipo de pagamento, se voltaria, o comentário e o dia em que foi escrita (sem o horário).
 
-**Nunca são mostrados:** seu e-mail, seu CRM e o **valor do plantão** que você informou. O valor só entra numa **média do hospital**, e essa média só aparece quando pelo menos 3 médicos informaram valores, para que ninguém consiga descobrir quanto um colega recebeu.
+**Nunca são mostrados:** seu e-mail, seu CRM e o **valor do plantão** que você informou. O valor só entra numa **média do hospital**, e essa média só aparece quando pelo menos 5 médicos informaram valores, arredondada para múltiplos de R$ 50, para que ninguém consiga descobrir quanto um colega recebeu.
 
 Atenção: mesmo no modo anônimo, o que você escreve no comentário (e a combinação de especialidade, hospital e data) pode permitir que alguém próximo deduza quem escreveu. Evite colocar detalhes que identifiquem você.
 
