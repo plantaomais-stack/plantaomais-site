@@ -3,7 +3,7 @@ title: Termos de Uso
 permalink: /termos/
 ---
 
-Última atualização: 26 de outubro de 2026
+Última atualização: 27 de outubro de 2026
 
 Bem-vindo ao Plantão+, uma solução feita por médicos, para médicos. Ao criar uma conta ou usar o app, você concorda com estes Termos e com a nossa [Política de Privacidade](/privacidade/). Se não concordar, não use o app.
 
