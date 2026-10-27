@@ -27,6 +27,7 @@ Para qualquer assunto sobre privacidade, inclusive para exercer os seus direitos
 - as notas (pagamento e pontualidade, infraestrutura, equipe e gestão, descanso e segurança);
 - o local do plantão, a duração e o tipo de pagamento;
 - o valor fixo do plantão (opcional);
+- o valor total recebido, quando o pagamento tem produtividade (opcional);
 - se você voltaria a dar plantão ali;
 - o comentário (opcional);
 - se você quer que o seu nome apareça;
@@ -69,7 +70,7 @@ Qualquer pessoa que use o app, mesmo sem conta, pode ver as avaliações. Em cad
 - **seu nome**, apenas se você escolher mostrá-lo naquela avaliação. Caso contrário, aparece só "Médico(a)";
 - as notas, o local, a duração, o tipo de pagamento, se voltaria, o comentário e o dia em que foi escrita (sem o horário).
 
-**Nunca são mostrados:** seu e-mail, seu CRM e o **valor do plantão** que você informou. O valor só entra numa **média do hospital**, e essa média só aparece quando pelo menos 5 médicos informaram valores, arredondada para múltiplos de R$ 50, para que ninguém consiga descobrir quanto um colega recebeu.
+**Nunca são mostrados:** seu e-mail, seu CRM e os **valores do plantão** que você informou (fixo e total). Cada valor só entra numa **média do hospital**, e essa média só aparece quando pelo menos 5 médicos informaram valores, arredondada para múltiplos de R$ 50, para que ninguém consiga descobrir quanto um colega recebeu.
 
 Atenção: mesmo no modo anônimo, o que você escreve no comentário (e a combinação de especialidade, hospital e data) pode permitir que alguém próximo deduza quem escreveu. Evite colocar detalhes que identifiquem você.
 
