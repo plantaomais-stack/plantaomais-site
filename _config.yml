@@ -1,0 +1,5 @@
+# Site do Plantão+ (GitHub Pages). Cada arquivo .md vira uma página.
+title: Plantão+
+lang: pt-BR
+markdown: kramdown
+exclude: [README.md]

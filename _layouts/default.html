@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.home %}Plantão+{% else %}{{ page.title }} · Plantão+{% endif %}</title>
+  <link rel="icon" href="/assets/favicon.png">
+  <style>
+    :root { --primary: #0b5cad; --bg: #f4f6f9; --card: #fff; --text: #1c1f24; --muted: #5b6270; --border: #dde1e7; }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: var(--bg); color: var(--text);
+      font: 16px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif; }
+    header { background: var(--card); border-bottom: 1px solid var(--border); }
+    header a { display: flex; align-items: center; gap: 10px; max-width: 760px; margin: 0 auto;
+      padding: 12px 16px; color: var(--primary); font-weight: 700; font-size: 20px; text-decoration: none; }
+    header img { width: 36px; height: 36px; border-radius: 8px; background: #e7f0fa; }
+    main { max-width: 760px; margin: 24px auto; padding: 24px 20px; background: var(--card); border-radius: 12px; }
+    h1 { color: var(--primary); margin-top: 0; line-height: 1.2; }
+    h2 { font-size: 20px; margin-top: 32px; }
+    a { color: var(--primary); }
+    table { border-collapse: collapse; width: 100%; font-size: 15px; }
+    th, td { border: 1px solid var(--border); padding: 8px; text-align: left; vertical-align: top; }
+    footer { max-width: 760px; margin: 0 auto 32px; padding: 0 16px; color: var(--muted); font-size: 14px; }
+    @media (max-width: 600px) { main { margin: 0; border-radius: 0; } table { display: block; overflow-x: auto; } }
+  </style>
+</head>
+<body>
+  <header><a href="/"><img src="/assets/logo.svg" alt="">Plantão+</a></header>
+  <main>
+    <h1>{{ page.title }}</h1>
+    {{ content }}
+  </main>
+  <footer>
+    <a href="/termos/">Termos de Uso</a> · <a href="/privacidade/">Política de Privacidade</a> ·
+    <a href="mailto:contato@plantaomais.app.br">contato@plantaomais.app.br</a>
+  </footer>
+</body>
+</html>
