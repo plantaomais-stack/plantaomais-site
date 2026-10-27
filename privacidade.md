@@ -3,7 +3,7 @@ title: Política de Privacidade
 permalink: /privacidade/
 ---
 
-Última atualização: 26 de outubro de 2026
+Última atualização: 27 de outubro de 2026
 
 O Plantão+ é um aplicativo em que médicos avaliam os hospitais onde dão plantão. Esta política explica, de forma simples, quais dados guardamos, por que guardamos, quem pode vê-los e quais são os seus direitos, conforme a Lei Geral de Proteção de Dados (Lei nº 13.709/2018, a "LGPD").
 
@@ -39,6 +39,10 @@ Para qualquer assunto sobre privacidade, inclusive para exercer os seus direitos
 **Quando você denuncia uma avaliação:**
 - o motivo, os detalhes (opcionais) e quem denunciou.
 
+**Quando você usa "Fale com a Plantão+":**
+- o assunto e a mensagem que você escreveu;
+- quem enviou (para respondermos no e-mail da sua conta).
+
 **Dados técnicos:** os serviços que usamos registram automaticamente informações de acesso, como endereço IP, data e hora. Isso é necessário para o funcionamento e a segurança do app.
 
 Não coletamos sua localização, contatos, fotos nem dados de pacientes.
@@ -51,6 +55,7 @@ Não coletamos sua localização, contatos, fotos nem dados de pacientes.
 | Publicar suas avaliações e os hospitais que você adiciona | Execução de contrato |
 | Calcular as médias de cada hospital | Execução de contrato e legítimo interesse |
 | Analisar denúncias, remover conteúdo que viole os Termos de Uso e evitar abusos e contas falsas | Legítimo interesse |
+| Responder às suas dúvidas, sugestões e problemas enviados pelo "Fale com a Plantão+" ou por e-mail | Execução de contrato e legítimo interesse |
 | Enviar e-mails necessários (código de confirmação, troca de senha) | Execução de contrato |
 | Cumprir a lei e ordens de autoridades | Cumprimento de obrigação legal |
 
@@ -75,6 +80,7 @@ Usamos empresas que prestam serviços para o funcionamento do app (os "operadore
 - **Supabase**: banco de dados e sistema de login;
 - **Resend**: envio dos e-mails do app;
 - **ImprovMX**: recebimento dos e-mails enviados para contato@plantaomais.app.br;
+- **Google (Gmail)**: caixa de e-mail onde lemos e respondemos as mensagens de contato;
 - **Apple e Google**: distribuição do app nas lojas.
 
 Alguns desses serviços guardam dados em servidores fora do Brasil. Nesses casos, a transferência segue o que a LGPD permite (art. 33), com empresas que adotam medidas de proteção adequadas.
@@ -84,7 +90,7 @@ Também podemos fornecer dados quando houver **ordem judicial** ou exigência le
 ## 6. Por quanto tempo guardamos
 
 - Enquanto sua conta existir, guardamos os seus dados.
-- Se você **apagar sua conta**, apagamos seu perfil, suas avaliações e suas denúncias. Os hospitais que você adicionou continuam no app, mas sem a ligação com você.
+- Se você **apagar sua conta**, apagamos seu perfil, suas avaliações, suas denúncias e suas mensagens do "Fale com a Plantão+". As respostas que já trocamos por e-mail podem continuar na nossa caixa de e-mail. Os hospitais que você adicionou continuam no app, mas sem a ligação com você.
 - Cópias de segurança (backups) podem manter dados por até 30 dias antes de serem apagadas automaticamente.
 - Registros de acesso podem ser guardados por até 6 meses, como prevê o Marco Civil da Internet (Lei nº 12.965/2014).
 
