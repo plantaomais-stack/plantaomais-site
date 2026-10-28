@@ -1,13 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
-  <!-- Plantão+ logo: a blue hospital with a white cross, and a gold star (a rating).
-       Drawn for a light blue background (#E7F0FA). Source for the app icons. -->
-  <rect x="232" y="330" width="560" height="500" rx="40" fill="#0B5CAD" />
-  <rect x="372" y="230" width="280" height="140" rx="30" fill="#0B5CAD" />
-  <rect x="477" y="370" width="70" height="200" rx="12.6" fill="#FFFFFF" />
-  <rect x="412" y="435" width="200" height="70" rx="12.6" fill="#FFFFFF" />
-  <rect x="462" y="660" width="100" height="170" rx="16" fill="#FFFFFF" />
-  <rect x="302" y="620" width="90" height="90" rx="14" fill="#FFFFFF" opacity="0.85" />
-  <rect x="632" y="620" width="90" height="90" rx="14" fill="#FFFFFF" opacity="0.85" />
-  <polygon fill="#F5B301" stroke="#E7F0FA" stroke-width="28" stroke-linejoin="round"
-    points="790.0,140.0 821.7,216.4 904.1,222.9 841.4,276.6 860.5,357.1 790.0,314.0 719.5,357.1 738.6,276.6 675.9,222.9 758.3,216.4" />
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Plantão+ logo (opção B, "P+"): white P with an amber plus, on Plantão blue.
+       Colors: blue #0B5CAD, amber #F5A524, navy #0A2540. Source for every icon. -->
+  <rect width="100" height="100" rx="22" fill="#0B5CAD"/><g transform="translate(50 50) scale(1) translate(-53 -50)"><path d="M28 16 H55 A23 23 0 0 1 55 62 H44 V80 A4 4 0 0 1 40 84 H32 A4 4 0 0 1 28 80 Z" fill="#fff"/><path d="M53 29 h7 v7 h7 v7 h-7 v7 h-7 v-7 h-7 v-7 h7 z" fill="#F5A524"/></g></svg>
