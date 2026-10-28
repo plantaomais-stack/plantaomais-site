@@ -19,7 +19,7 @@ As avaliações são **opiniões pessoais dos médicos que as escreveram**, não
 
 - Qualquer pessoa pode **ler** as avaliações.
 - Para **escrever avaliações, adicionar hospitais ou denunciar**, você precisa criar uma conta, ter 18 anos ou mais e ser médico(a).
-- Você se compromete a informar dados verdadeiros no cadastro (nome, especialidade e, se informar, CRM).
+- Você se compromete a informar dados verdadeiros no cadastro (nome, especialidade e CRM).
 - A conta é pessoal: não a compartilhe e guarde bem sua senha. Você é responsável pelo que for feito com ela.
 
 ## 3. Regras para avaliações e comentários

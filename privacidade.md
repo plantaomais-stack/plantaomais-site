@@ -20,7 +20,7 @@ Para qualquer assunto sobre privacidade, inclusive para exercer os seus direitos
 - senha (guardada de forma criptografada: nem nós conseguimos lê-la);
 - nome;
 - especialidade;
-- CRM e estado do CRM (opcionais).
+- número do CRM e estado do CRM.
 
 **Quando você escreve uma avaliação:**
 - o hospital avaliado;
