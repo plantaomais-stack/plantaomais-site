@@ -5,11 +5,11 @@ permalink: /privacidade/
 
 Última atualização: 27 de outubro de 2026
 
-O Plantão+ é um aplicativo em que médicos avaliam os hospitais onde dão plantão. Esta política explica, de forma simples, quais dados guardamos, por que guardamos, quem pode vê-los e quais são os seus direitos, conforme a Lei Geral de Proteção de Dados (Lei nº 13.709/2018, a "LGPD").
+A Plantão+ é um aplicativo em que médicos avaliam os hospitais onde dão plantão. Esta política explica, de forma simples, quais dados guardamos, por que guardamos, quem pode vê-los e quais são os seus direitos, conforme a Lei Geral de Proteção de Dados (Lei nº 13.709/2018, a "LGPD").
 
 ## 1. Quem é o responsável pelos seus dados
 
-O responsável (o "controlador", na linguagem da LGPD) é **Luiz Felipe Barcelos Gonçalves**, pessoa física, criador do Plantão+.
+O responsável (o "controlador", na linguagem da LGPD) é **Luiz Felipe Barcelos Gonçalves**, pessoa física, criador da Plantão+.
 
 Para qualquer assunto sobre privacidade, inclusive para exercer os seus direitos, escreva para **contato@plantaomais.app.br**.
 
@@ -114,7 +114,7 @@ Usamos conexões criptografadas, senhas guardadas de forma criptografada e regra
 
 ## 9. Idade
 
-O Plantão+ é feito para médicos. Não é destinado a menores de 18 anos.
+A Plantão+ é feita para médicos. Não é destinada a menores de 18 anos.
 
 ## 10. Mudanças nesta política
 

@@ -6,7 +6,7 @@ home: true
 
 **Uma solução feita por médicos, para médicos.**
 
-O Plantão+ é um aplicativo em que médicos avaliam os hospitais onde dão plantão: pagamento e pontualidade, infraestrutura, equipe e gestão, descanso e segurança.
+A Plantão+ é um aplicativo em que médicos avaliam os hospitais onde dão plantão: pagamento e pontualidade, infraestrutura, equipe e gestão, descanso e segurança.
 
 Em breve para iPhone e Android.
 

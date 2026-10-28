@@ -5,15 +5,15 @@ permalink: /termos/
 
 Última atualização: 27 de outubro de 2026
 
-Bem-vindo ao Plantão+, uma solução feita por médicos, para médicos. Ao criar uma conta ou usar o app, você concorda com estes Termos e com a nossa [Política de Privacidade](/privacidade/). Se não concordar, não use o app.
+Bem-vindo à Plantão+, uma solução feita por médicos, para médicos. Ao criar uma conta ou usar o app, você concorda com estes Termos e com a nossa [Política de Privacidade](/privacidade/). Se não concordar, não use o app.
 
-O Plantão+ é mantido por **Luiz Felipe Barcelos Gonçalves** ("nós"). Contato: **contato@plantaomais.app.br**.
+A Plantão+ é mantida por **Luiz Felipe Barcelos Gonçalves** ("nós"). Contato: **contato@plantaomais.app.br**.
 
-## 1. O que é o Plantão+
+## 1. O que é a Plantão+
 
-O Plantão+ é um espaço para médicos compartilharem suas experiências reais de plantão em hospitais e outros serviços de saúde: pagamento, infraestrutura, equipe, descanso e segurança. O app é gratuito.
+A Plantão+ é um espaço para médicos compartilharem suas experiências reais de plantão em hospitais e outros serviços de saúde: pagamento, infraestrutura, equipe, descanso e segurança. O app é gratuito.
 
-As avaliações são **opiniões pessoais dos médicos que as escreveram**, não do Plantão+. As médias e os valores mostrados são apenas uma referência e podem não refletir a situação atual de cada hospital.
+As avaliações são **opiniões pessoais dos médicos que as escreveram**, não da Plantão+. As médias e os valores mostrados são apenas uma referência e podem não refletir a situação atual de cada hospital.
 
 ## 2. Quem pode usar
 
@@ -24,7 +24,7 @@ As avaliações são **opiniões pessoais dos médicos que as escreveram**, não
 
 ## 3. Regras para avaliações e comentários
 
-Ao publicar no Plantão+, você se compromete a:
+Ao publicar na Plantão+, você se compromete a:
 
 1. **Falar de experiência própria e real.** Avalie apenas lugares onde você trabalhou de verdade.
 2. **Ser respeitoso.** Nada de ofensas, xingamentos, ameaças, discriminação ou discurso de ódio.
@@ -46,7 +46,7 @@ Você é o único responsável pelo conteúdo que publica.
 
 ## 5. Licença do seu conteúdo
 
-O que você escreve continua sendo seu. Ao publicar, você nos autoriza, de graça e sem exclusividade, a exibir, guardar e usar esse conteúdo dentro do Plantão+, inclusive nas médias dos hospitais, enquanto ele estiver publicado.
+O que você escreve continua sendo seu. Ao publicar, você nos autoriza, de graça e sem exclusividade, a exibir, guardar e usar esse conteúdo dentro da Plantão+, inclusive nas médias dos hospitais, enquanto ele estiver publicado.
 
 ## 6. Valores de plantão
 
@@ -64,7 +64,7 @@ Você pode apagar sua conta a qualquer momento em *Minha conta*. Isso apaga o se
 
 ## 9. Mudanças nestes Termos
 
-Podemos atualizar estes Termos. Quando a mudança for importante, avisaremos no app. Se continuar usando o Plantão+ depois disso, você concorda com a nova versão.
+Podemos atualizar estes Termos. Quando a mudança for importante, avisaremos no app. Se continuar usando a Plantão+ depois disso, você concorda com a nova versão.
 
 ## 10. Lei e foro
 

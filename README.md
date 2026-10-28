@@ -1,6 +1,6 @@
 # plantaomais-site
 
-Site público do Plantão+ em https://plantaomais.app.br (GitHub Pages).
+Site público da Plantão+ em https://plantaomais.app.br (GitHub Pages).
 
 - `index.md` — página inicial
 - `termos.md` — Termos de Uso (`/termos/`)
