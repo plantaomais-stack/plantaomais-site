@@ -3,7 +3,7 @@ title: Política de Privacidade
 permalink: /privacidade/
 ---
 
-Última atualização: 27 de outubro de 2026
+Última atualização: 9 de novembro de 2026
 
 A Plantão+ é um aplicativo em que médicos avaliam os hospitais onde dão plantão. Esta política explica, de forma simples, quais dados guardamos, por que guardamos, quem pode vê-los e quais são os seus direitos, conforme a Lei Geral de Proteção de Dados (Lei nº 13.709/2018, a "LGPD").
 
@@ -43,6 +43,8 @@ Para qualquer assunto sobre privacidade, inclusive para exercer os seus direitos
 **Quando você usa "Fale com a Plantão+":**
 - o assunto e a mensagem que você escreveu;
 - quem enviou (para respondermos no e-mail da sua conta).
+
+**Rascunho de uma avaliação (só no seu aparelho):** enquanto você escreve uma avaliação, o app guarda um rascunho neste aparelho, para nada se perder se você precisar criar sua conta ou buscar o código no e-mail. O rascunho não vai para os nossos servidores e **nunca guarda os valores do pagamento** (só se você tinha digitado algum, para lembrar você de digitar de novo). No navegador, ele some quando você fecha a aba; no celular, é ignorado depois de 7 dias. O rascunho é apagado quando você publica a avaliação e quando você sai da conta.
 
 **Dados técnicos:** os serviços que usamos registram automaticamente informações de acesso, como endereço IP, data e hora. Isso é necessário para o funcionamento e a segurança do app.
 
